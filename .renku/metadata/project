@@ -1,0 +1,39 @@
+{
+  "@renku_data_type": "renku.domain_model.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "2.9.1",
+  "annotations": [],
+  "creator": {
+    "@renku_data_type": "renku.domain_model.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "alfredo.chavarria@eawag.ch",
+      "id": "mailto:alfredo.chavarria@eawag.ch",
+      "name": "Alfredo Chavarria"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2024-02-12T13:06:59.525042+00:00"
+  },
+  "description": "",
+  "id": "/projects/alfredo.chavarria/coudlabs-temperatura-2024",
+  "image": null,
+  "keywords": [],
+  "minimum_renku_version": "2.8.0",
+  "name": "coudlabs_temperatura_2024",
+  "template_metadata": {
+    "@renku_data_type": "renku.domain_model.project.ProjectTemplateMetadata",
+    "@renku_data_value": {
+      "immutable_template_files": [],
+      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/contributed-project-templates\", \"__template_ref__\": \"0.6.0\", \"__template_id__\": \"desktop\", \"__namespace__\": \"alfredo.chavarria\", \"__repository__\": \"https://gitlab.renkulab.io\", \"__sanitized_project_name__\": \"coudlabs-temperatura-2024\", \"__project_slug__\": \"alfredo.chavarria/coudlabs-temperatura-2024\", \"__project_description__\": \"\", \"__renku_version__\": \"2.9.1\", \"name\": \"coudlabs_temperatura_2024\", \"__name__\": \"coudlabs_temperatura_2024\", \"__template_version__\": \"ca6b163ed4ef09ab70f854a0de7215a1810acbe8\", \"__automated_update__\": true}",
+      "ssh_supported": false,
+      "template_id": "desktop",
+      "template_ref": "0.6.0",
+      "template_source": "https://github.com/SwissDataScienceCenter/contributed-project-templates",
+      "template_version": "ca6b163ed4ef09ab70f854a0de7215a1810acbe8"
+    }
+  },
+  "version": 10
+}
