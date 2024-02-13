@@ -17,6 +17,12 @@
                     "@renku_data_type": "persistent.list.PersistentList",
                     "@renku_oid": "065d8aaeed2c4fdda5c8e8cd7c9f298df76c38bcb0a840a6a7f6f50702222e12",
                     "@renku_reference": true
+                  },
+                  "data/plots/temp_proc_plot.png",
+                  {
+                    "@renku_data_type": "persistent.list.PersistentList",
+                    "@renku_oid": "dda5007e82f84e44be2121a8a71af0472f84a34ed5424359ad49859da9af633b",
+                    "@renku_reference": true
                   }
                 ]
               }
