@@ -43,7 +43,6 @@ def main(inputFolder, outputFolder):
         ax.set_xlabel('Time (hours)')
         ax.set_ylabel('Temperature (deg.C)')
 
-    os.makedirs(os.path.join(outputFolder), exist_ok=True)
     plt.tight_layout()
     plt.savefig(outputFolder)
 
