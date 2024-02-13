@@ -1,0 +1,2 @@
+data/sediments-data/230329.CoUDlabs_WP8_T812_UDC_001.pdf filter=lfs diff=lfs merge=lfs -text
+data/sediments-data/data[[:space:]]files.zip filter=lfs diff=lfs merge=lfs -text
