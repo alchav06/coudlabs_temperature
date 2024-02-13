@@ -1,5 +1,30 @@
 {
   "@renku_data_type": "renku.infrastructure.database.RenkuOOBTree",
-  "@renku_data_value": null,
+  "@renku_data_value": {
+    "@renku_data_type": "builtins.tuple",
+    "@renku_data_value": [
+      {
+        "@renku_data_type": "builtins.tuple",
+        "@renku_data_value": [
+          {
+            "@renku_data_type": "builtins.tuple",
+            "@renku_data_value": [
+              {
+                "@renku_data_type": "builtins.tuple",
+                "@renku_data_value": [
+                  "/activities/37721cd7920c4484a8572aeb1c3f4e76",
+                  {
+                    "@renku_data_type": "renku.domain_model.provenance.activity.Activity",
+                    "@renku_oid": "a6d8d6c4f6a73bd5cf5006aae4be0d67772c7b7e5edf5e2a976807975356a93f",
+                    "@renku_reference": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "@renku_oid": "activities"
 }

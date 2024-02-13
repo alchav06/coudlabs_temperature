@@ -1,5 +1,30 @@
 {
   "@renku_data_type": "renku.infrastructure.database.RenkuOOBTree",
-  "@renku_data_value": null,
+  "@renku_data_value": {
+    "@renku_data_type": "builtins.tuple",
+    "@renku_data_value": [
+      {
+        "@renku_data_type": "builtins.tuple",
+        "@renku_data_value": [
+          {
+            "@renku_data_type": "builtins.tuple",
+            "@renku_data_value": [
+              {
+                "@renku_data_type": "builtins.tuple",
+                "@renku_data_value": [
+                  "plot_wflow",
+                  {
+                    "@renku_data_type": "renku.domain_model.workflow.plan.Plan",
+                    "@renku_oid": "0d286499e9f0e82c1b9d3c810b87d80e56f0b6bdbd2882d734310ee8c72781ce",
+                    "@renku_reference": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "@renku_oid": "plans-by-name"
 }
