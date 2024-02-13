@@ -45,7 +45,7 @@ def main(inputFolder, outputFolder):
 
     os.makedirs(os.path.join(outputFolder), exist_ok=True)
     plt.tight_layout()
-    plt.savefig(os.path.join(outputFolder, "temp_processed_plots.png"))
+    plt.savefig(outputFolder)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
