@@ -1,0 +1,10 @@
+ID,Measure,Location,Xcoordinate/Width of the box (-),Zcoordinate (m),Sensor,Manufacturer,Time_resolution (s),Acquisition_units,Result_units
+PT0a,Temperature,Room,-,-,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT1w,Temperature,Box 1,0.5,0.03,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT1s,Temperature,Box 1,0.5,0,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT2w,Temperature,Box 2,0.5,0.05,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT2s,Temperature,Box 2,0.5,0,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT3w,Temperature,Box 3,0.5,0.07,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT3s,Temperature,Box 3,0.5,0,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT4w,Temperature,Box 4,0.5,0.09,PT100-TF44,WIKA Instruments,5,ohms,deg.C
+PT4s,Temperature,Box 4,0.5,0,PT100-TF44,WIKA Instruments,5,ohms,deg.C

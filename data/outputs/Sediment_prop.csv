@@ -1,0 +1,4 @@
+Subsample,Moisture content (%),Organic matter (%),Wet density (kg/m3),Bulk density (kg/m3),Dry bulk density (kg/m3),Solid density (kg/m3),Porosity (-),"Mean grain size, ISO 13320:2009 (mm)","Mean grain size, ISO 2591-1:1988 (mm)"
+1,17.71,2.04,1979.8,1631.4,1386.0,2711.9,0.398,0.587,0.7
+2,17.58,2.16,1971.4,1626.8,1383.5,2700.4,0.398,,
+3,18.16,2.4,1974.8,1618.3,1369.6,2703.2,0.401,,
