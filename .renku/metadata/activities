@@ -12,6 +12,12 @@
               {
                 "@renku_data_type": "builtins.tuple",
                 "@renku_data_value": [
+                  "/activities/0cf3992a0f944c02b7eb0b5bb2319c9a",
+                  {
+                    "@renku_data_type": "renku.domain_model.provenance.activity.Activity",
+                    "@renku_oid": "573c8758179612fbf733d94998023deb2d2c2d29e81bc21889451697ffa7fc80",
+                    "@renku_reference": true
+                  },
                   "/activities/37721cd7920c4484a8572aeb1c3f4e76",
                   {
                     "@renku_data_type": "renku.domain_model.provenance.activity.Activity",
@@ -22,6 +28,12 @@
                   {
                     "@renku_data_type": "renku.domain_model.provenance.activity.Activity",
                     "@renku_oid": "592ad6dbb85dd7db8e4356a290e1fc6808b63a3adda3e7ac0c946cda89fa2242",
+                    "@renku_reference": true
+                  },
+                  "/activities/7f581691adce41d1ad9bb0eebf0cdc47",
+                  {
+                    "@renku_data_type": "renku.domain_model.provenance.activity.Activity",
+                    "@renku_oid": "5bd25691e7988c0710bc080c8944ddf6c523b0528d95e96df19f0b10056e93c7",
                     "@renku_reference": true
                   }
                 ]
